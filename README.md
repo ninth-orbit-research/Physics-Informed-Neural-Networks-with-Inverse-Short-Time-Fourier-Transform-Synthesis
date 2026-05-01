@@ -307,23 +307,3 @@ done
 Checkpoints are saved after each model completes. Re-running loads existing checkpoints automatically — delete `.pt` files selectively to retrain specific models.
 
 ---
-
-## Citation
-
-```bibtex
-@article{tiwari2026stft,
-  title   = {Mitigating Spectral Bias in Physics-Informed Neural Networks
-             Through Short-Time Fourier Transform Synthesis for Viscoelastic Modeling},
-  author  = {Tiwari, Nitin and Raghavamsi, R.V.B.S. and Shin, Boonam},
-  journal = {Computers and Geotechnics},
-  year    = {2026},
-  note    = {Under review}
-}
-```
-
----
-
-## Contact
-
-Nitin Tiwari — nitin.tiwari@siu.edu
-GeoCARE Laboratory, Southern Illinois University Carbondale, IL 62901, USA
