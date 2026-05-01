@@ -2,12 +2,6 @@
 
 **Mitigating Spectral Bias in Physics-Informed Neural Networks Through Short-Time Fourier Transform Synthesis for Viscoelastic Modeling**
 
-*Nitin Tiwari, R.V.B.S. Raghavamsi, Boonam Shin*
-GeoCARE Laboratory, School of Civil Environmental and Infrastructure Engineering,
-Southern Illinois University Carbondale
-
-*Submitted to Computers and Geotechnics*
-
 ---
 
 ## Overview
